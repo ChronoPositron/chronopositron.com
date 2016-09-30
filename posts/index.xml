@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ChronoPositron.Random()</title>
+    <link>http://chronopositron.com/posts/</link>
+    <description>Recent content in Posts on ChronoPositron.Random()</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 12 Jun 2007 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://chronopositron.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>First post. Woo!</title>
+      <link>http://chronopositron.com/posts/first-post/</link>
+      <pubDate>Tue, 12 Jun 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://chronopositron.com/posts/first-post/</guid>
+      <description>&lt;p&gt;Well, now that I have something presentable up for my template, it’s time for the standard first
+post. My first posts are generally very short and tend to end up looking something exactly like
+this. Rather than drag it on too long, I’ll just end it here and let everyone look at my new
+template :)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
